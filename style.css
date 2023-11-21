@@ -2,11 +2,11 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #FFCCE5;
+    background-color: #91c8f5;
 }
 
 #banner {
-    width: 70%;
+    width: 100%;
     margin: 20px auto;
 }
 
@@ -16,11 +16,3 @@ h1 {
 p {
     margin: 20px 0;
 }
-#titulo {
-    text-align: center;
-}
-
-.texto {
-    color: #181661;
-    text-align: center;
-    }
